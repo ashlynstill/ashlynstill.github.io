@@ -41,8 +41,3 @@ $(document).ready(function(){
 
 })
 
-
-
-
-
-// <p><a href="#" target="_blank">A link to a thing</a></p>
